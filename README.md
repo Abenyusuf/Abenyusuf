@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abenyusuf
-- 👀 I’m interested in becoming either a software engineer or a ethical hacker
+- 👀 I’m interested in becoming either a information security analyst or a ethical hacker
 - 🌱 I’m currently learning computer science at avila university
 - 💞️ I’m looking to collaborate on whatever I can i want to learn as much as possible 
 - 📫 How to reach me (you can reach me through my github inbox)
